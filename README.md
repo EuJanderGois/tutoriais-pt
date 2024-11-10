@@ -4,5 +4,5 @@ Este repositório foi criado para armazenar todos os arquivos markdown relaciona
 
 > Importante: Nada aqui será organizado, no futuro pretendo criar um outro repositorio que será um github pages para docusaurus, ou então vou criar algum website onde todos os arquivos que estão aqui possam ser servidos de uma forma mais organizada.
 
-- [Biblioteca de Componentes Com TSDX](biblioteca-de-componentes-com-TSDX)
+- [Biblioteca de Componentes Com TSDX](biblioteca-de-componentes-com-TSDX.md)
 - [Conceitos Básicos de CSharp](conceitos-basicos-csharp.md)
