@@ -9,9 +9,17 @@ Apesar de todo o entusiasmo recente, configurar uma nova biblioteca TypeScript (
 
 Com o [TSDX](https://tsdx.io), você pode inicializar rapidamente um novo projeto TypeScript em segundos, em vez de horas. Abra o Terminal e digite:
 
+
 ``` bash
-npx tsdx create mylib
+npx tsdx create mylib # substitua `mylib` pelo nome de sua escolha
 ```
+
+ou
+
+``` bash
+yarn create tsdx mylib # substitua `mylib` pelo nome de sua escolha
+```
+
 
 | Template               | Description                                                                                                                                                                                                         |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
