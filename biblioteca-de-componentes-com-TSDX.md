@@ -1,5 +1,7 @@
 # Biblioteca de Componentes Com TSDX
 
+fonte: https://tsdx.io/#code-npm-run-build-code-or-code-yarn-build-code
+
 Apesar de todo o entusiasmo recente, configurar uma nova biblioteca TypeScript (x React) pode ser difícil. Entre Rollup, Jest, tsconfig, resoluções Yarn, TSLint e fazer com que o VSCode funcione bem... há um monte de coisas para fazer (e coisas para estragar).
 
 **TSDX é uma CLI sem configuração que ajuda você a desenvolver, testar e publicar pacotes TypeScript modernos** com facilidade, para que você possa se concentrar em sua nova biblioteca incrível e não perder mais uma tarde com configuração.
@@ -53,4 +55,3 @@ Agrupa e empacota na pasta `dist`. Executa automaticamente quando você executa 
 
 O TSDX inclui melhores práticas e otimizações para pacotes NPM modernos. Isso inclui coisas como a capacidade de ter diferentes builds de desenvolvimento e produção, múltiplos formatos de pacote, otimizações adequadas do lodash, treeshaking e minificação, para citar alguns. Todas essas funcionalidades vêm prontas para uso com o TSDX. Embora você provavelmente não precise configurar nada, [você pode fazer isso com tsdx.config.js](https://tsdx.io/customization).
 
-Antes de começar a estender o TSDX, você vai querer entender completamente o que o TSDX faz _exatamente_. Na próxima seção, vamos abordar todas essas otimizações em mais detalhes.
